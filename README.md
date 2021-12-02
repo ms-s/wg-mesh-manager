@@ -9,9 +9,9 @@ Based on meshmash https://github.com/nickpegg/meshmash
 | GET          | /overlays                                 |                    |
 | GET          | /overlays/<overlay_id>                    |                    |
 | POST         | /devices                                  |                    |
-| PUT          | /devices                                  |                    |
 | GET          | /devices                                  |                    |
 | GET          | /devices/<device_id>                      |                    |
+| PUT          | /devices/<device_id>                      |                    |
 | DELETE       | /overlays/<overlay_id>                    |                    |
 | DELETE       | /devices/<device_id>                      |                    |
 | POST         | /overlays/<overlay_id>/devices            |                    |
